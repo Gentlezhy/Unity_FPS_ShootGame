@@ -1,0 +1,13 @@
+Library/
+Temp/
+.plastic/
+Logs/
+Packages/
+ProjectSettings/
+UserSettings/
+obj/
+*.sln
+*.csproj
+*.userprefs
+*.unityproj
+*.DS_Store
